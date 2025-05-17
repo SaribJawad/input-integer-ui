@@ -1,4 +1,4 @@
-const input_integer = require('..')
+const input_integer = require('@saribj/input-integer-ui-demo')
 
 const opts1 = { min: 1, max: 150 }
 const opts2 = { min: 1872, max: 2025 }
